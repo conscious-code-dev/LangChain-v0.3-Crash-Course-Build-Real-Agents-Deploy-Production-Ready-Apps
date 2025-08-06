@@ -16,7 +16,7 @@ LangChain has changed a lot recently, and many older tutorials are outdated or d
 
 I’m not an expert — I’m learning and figuring things out as I go. If you’re also trying to understand how to use LangChain properly in real dev setups, you might find this useful.
 
-Link to the PlayLis : [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)
+Link to the PlayList : [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)
 ---
 
 ## 📚 Episodes & Topics Covered
