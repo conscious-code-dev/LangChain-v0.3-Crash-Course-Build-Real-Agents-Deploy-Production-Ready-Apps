@@ -2,7 +2,7 @@
 
 Welcome to the public journal for the **LangChain v0.3+ Crash Course** — a 12-part YouTube series designed to help developers build real agentic apps using the latest LangChain tools.
 
-I’m documenting everything here: what I publish, what I learn, where I promote, and how it evolves.
+I’m documenting everything here: what I publish, what I learn and how it evolves.
 
 ---
 
