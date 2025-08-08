@@ -32,6 +32,36 @@ I’m documenting everything here: what I publish, what I learn and how it evolv
 ---
 
 
+## 📅 August 8, 2025 — Episode 2 Recorded
+
+**🎥 Video:** [Quickstart Project (Poetry Setup)	Scaffold a clean LangChain project using Poetry]()  
+**📂 Playlist:** [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)  
+**💻 Repo:** [GitHub – ConsciousCode/contract_simplifier](https://github.com/conscious-code-dev/contract_simplifier)
+
+**Core Focus:**
+- Scaffolding a modern Python project using **Poetry**
+- Setting up a clean `src/` layout for production
+- Building and testing a **FastAPI app** with LangChain integration
+- Validating inputs with **Pydantic + FastAPI**
+- Writing automated tests with `pytest` for the `/simplify` endpoint
+- Deploying to the cloud with **Render** using `render.yaml`
+- Solving real-world issues (💀 *greenlet + Python 3.12 drama*)
+
+**Learning Activity:**
+- Navigated Python packaging + Poetry quirks
+- Learned deployment flow via **Render** without Docker
+- Built confidence handling native dependency errors (greenlet, wheels, etc.)
+- Practiced recording + teaching while debugging real-time
+
+**Reflection:**
+> This one flowed better. Less second-guessing, more execution. 
+>
+> The project is now cloud-deployed, tested, and ready for LLM logic. The dev setup is **legit**, not just a notebook hack.
+>
+> Video editing still eats time, but I’m getting faster. Every episode now builds momentum — next up: chaining prompts and streaming output.
+
+---
+
 
 ## 🔄 Coming Soon
 
