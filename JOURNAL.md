@@ -62,6 +62,31 @@ I’m documenting everything here: what I publish, what I learn and how it evolv
 
 ---
 
+## 📅 August 12, 2025 — Episode 2 Edited
+
+**🎥 Video:** [Quickstart Project (Poetry Setup)	Scaffold a clean LangChain project using Poetry]()  
+**📂 Playlist:** [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)  
+**💻 Repo:** [GitHub – ConsciousCode/contract_simplifier](https://github.com/conscious-code-dev/contract_simplifier)
+
+**Core Focus:**
+- Editing the video and delivering best quaity content
+- Focusing more on User Experience
+
+**Learning Activity:**
+- Learnt to add Text , image overlays
+- Created my own versions of memes to avoid copyright issues
+
+**Reflection:**
+> Editing of this one ate a lot of time.
+>
+> The video is now ready to be published.
+>
+> I’m getting faster with video editing. Every episode now builds momentum — next up: chaining prompts and streaming output.
+
+---
+
+
+
 
 ## 🔄 Coming Soon
 
