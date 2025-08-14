@@ -34,7 +34,7 @@ I’m documenting everything here: what I publish, what I learn and how it evolv
 
 ## 📅 August 8, 2025 — Episode 2 Recorded
 
-**🎥 Video:** [Quickstart Project (Poetry Setup)	Scaffold a clean LangChain project using Poetry]()  
+**🎥 Video:** [Quickstart Project (Poetry Setup)	Scaffold a clean LangChain project using Poetry](https://youtu.be/JVyqGwFL31k)  
 **📂 Playlist:** [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)  
 **💻 Repo:** [GitHub – ConsciousCode/contract_simplifier](https://github.com/conscious-code-dev/contract_simplifier)
 
