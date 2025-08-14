@@ -64,7 +64,7 @@ I’m documenting everything here: what I publish, what I learn and how it evolv
 
 ## 📅 August 12, 2025 — Episode 2 Edited
 
-**🎥 Video:** [Quickstart Project (Poetry Setup)	Scaffold a clean LangChain project using Poetry]()  
+**🎥 Video:** [Quickstart Project (Poetry Setup)	Scaffold a clean LangChain project using Poetry](https://youtu.be/JVyqGwFL31k)  
 **📂 Playlist:** [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)  
 **💻 Repo:** [GitHub – ConsciousCode/contract_simplifier](https://github.com/conscious-code-dev/contract_simplifier)
 
@@ -85,7 +85,29 @@ I’m documenting everything here: what I publish, what I learn and how it evolv
 
 ---
 
+## 📅 August 14, 2025 — Episode 2 Released!
 
+**🎥 Video:** [Quickstart Project (Poetry Setup)	Scaffold a clean LangChain project using Poetry](https://youtu.be/JVyqGwFL31k)  
+**📂 Playlist:** [LangChain v0.3+ Crash Course](https://www.youtube.com/playlist?list=PLv5fXmCxvRd_X3DHTl68Pra5_oigfpmhv)  
+**💻 Repo:** [GitHub – ConsciousCode/contract_simplifier](https://github.com/conscious-code-dev/contract_simplifier)
+
+**Core Focus:**
+- Writing the captions
+- Focusing more on how to use whisper.cpp to transcribe audio
+- SEO friendly title , descriptions .
+- Added time stamps so that it helps the viewers
+
+**Learning Activity:**
+- Learnt to use whisper.cpp locally on my system
+- Tweaked the captions where the model made few mistakes
+
+**Reflection:**
+> Editing and uploading of this one ate a lot of time.
+>
+> The video is now ready and published.
+
+
+---
 
 
 ## 🔄 Coming Soon
